@@ -13,5 +13,7 @@
 - :zap: In my free time, I try to learn more about AI and read technology articles.
 
 ---
-
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kurokawa592&theme=dark" alt="GitHub Streak" /></a>
+</div>
+
